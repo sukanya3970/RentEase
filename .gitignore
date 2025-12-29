@@ -1,0 +1,17 @@
+# Node modules
+RentEaseApp/node_modules/
+REBackend/node_modules/
+
+# Expo and environment files
+RentEaseApp/.expo/
+RentEaseApp/.expo-shared/
+RentEaseApp/.env
+REBackend/.env
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+node_modules/
